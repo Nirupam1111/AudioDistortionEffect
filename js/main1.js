@@ -3,7 +3,7 @@ var colorPalette = ["#0D062E", "rgba(224, 62, 56, 0.5)", "#FD2A38", "#DA3B48"];
 var uploadLoading = false;
 
 function preload() {
-	audio = loadSound("audio/DEMO_1.mp3");
+	audio = loadSound("audio/arjan_vally.mp3");
 }
 
 
